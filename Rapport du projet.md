@@ -1,7 +1,7 @@
 
-**Auteur : A. Larhlimi**
+**Rapport du Projet**
 
-*Destiné aux étudiants de 4 IIR - EMSI Casablanca*
+*Plateforme Intelligente de Gestion des Tickets du Mondial 2030*
 
 Fait par : HAITAM Salah-Eddine
 <br>
