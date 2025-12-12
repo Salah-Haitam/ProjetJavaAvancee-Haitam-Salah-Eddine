@@ -5,7 +5,7 @@
 
 Fait par : HAITAM Salah-Eddine
 <br>
-<img src="moi.jpg" style="height:200px;margin-right:600px"/>
+<img src="Diagramme de classe.png" style="height:200px;margin-right:600px"/>
 ***
 
 ## Introduction
