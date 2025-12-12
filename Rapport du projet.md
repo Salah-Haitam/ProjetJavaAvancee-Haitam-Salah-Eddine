@@ -5,17 +5,9 @@
 
 Fait par : HAITAM Salah-Eddine
 <br>
-<img src="Diagramme de classe.png" style="height:200px;margin-right:600px"/>
+<img src="Diagramme de classe.png"/>
 ***
 
 ## Introduction
 
-Le framework des Collections en Java est un ensemble d'interfaces, classes et algorithmes permettant de stocker, manipuler et gérer des groupes d'objets.
-
-Il joue un rôle crucial pour les ingénieurs informaticiens, car il offre des structures de données efficaces et réutilisables pour résoudre des problèmes complexes de gestion de données.
-
-Comprendre ces collections permet d'écrire des programmes plus performants, maintenables et adaptés aux besoins réels.
-
-***
-
-## Hiérarchie des Interfaces des Collections en Java
+La Plateforme de Gestion des Tickets du Mondial 2030 est un système de billetterie numérique sécurisé conçu pour gérer l’achat, le transfert et le contrôle d’accès des billets. Elle optimise la distribution des places en fonction des flux de spectateurs pour garantir une organisation fluide. Grâce à l’intégration de la blockchain, la traçabilité et l’authenticité des tickets sont entièrement assurées tout au long de leur cycle de vie.
